@@ -740,16 +740,14 @@
 .u-section-6 .u-text-1 {
   font-size: 3.75rem;
   width: 236px;
-  font-family: SFTransRobotics;
-  font-weight: 400;
-  margin: 14px auto 0;
+  margin: 13px auto 0;
 }
 
 .u-section-6 .u-line-1 {
   width: 106px;
   height: 3px;
   transform-origin: left center 0px;
-  margin: 22px auto 0;
+  margin: 23px auto 0;
 }
 
 .u-section-6 .u-text-2 {
@@ -841,6 +839,8 @@
 
   .u-section-6 .u-text-1 {
     font-size: 3rem;
+    font-family: Oswald, sans-serif;
+    font-weight: bold;
   }
 
   .u-section-6 .u-text-2 {
@@ -1052,9 +1052,4 @@
   .u-section-6 .u-layout-cell-3 {
     min-height: 9px;
   }
-}@font-face {
-  font-family: 'SFTransRobotics';
-  font-style: normal;
-  font-weight: 400;
-  src: url(fonts/SFTransRobotics.ttf);
 }
