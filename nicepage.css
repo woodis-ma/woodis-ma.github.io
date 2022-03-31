@@ -37251,10 +37251,9 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-nav-1 {
-  font-size: 1rem;
-  letter-spacing: 0px;
   font-weight: 700;
   font-family: "Open Sans", sans-serif;
+  font-size: 1rem;
 }
 
 .u-header .u-nav-2 {
@@ -37281,6 +37280,10 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-menu-1 {
     width: auto;
     margin-right: 51px;
+  }
+
+  .u-header .u-nav-1 {
+    letter-spacing: normal;
   }
 
   .u-header .u-social-icons-1 {
