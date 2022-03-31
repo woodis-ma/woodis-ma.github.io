@@ -228,7 +228,7 @@
 }
 
 .u-section-4 .u-text-2 {
-  margin: 36px 15px 0 0;
+  margin: 36px 8px 0;
 }
 
 .u-section-4 .u-layout-cell-2 {
@@ -261,6 +261,7 @@
 
   .u-section-4 .u-text-2 {
     margin-right: 0;
+    margin-left: 0;
   }
 
   .u-section-4 .u-layout-cell-2 {
@@ -740,6 +741,8 @@
 .u-section-6 .u-text-1 {
   font-size: 3.75rem;
   width: 236px;
+  font-family: Oswald, sans-serif;
+  font-weight: bold;
   margin: 13px auto 0;
 }
 
@@ -839,8 +842,6 @@
 
   .u-section-6 .u-text-1 {
     font-size: 3rem;
-    font-family: Oswald, sans-serif;
-    font-weight: bold;
   }
 
   .u-section-6 .u-text-2 {
