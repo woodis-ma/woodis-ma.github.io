@@ -9,13 +9,13 @@
 .u-section-1 .u-text-1 {
   font-family: SFTransRobotics-1;
   font-weight: 400;
-  margin: 49px auto 0 0;
+  margin: 5px auto 0 0;
 }
 
 .u-section-1 .u-text-2 {
   font-size: 0.875rem;
   font-weight: 400;
-  margin: -60px auto 60px 231px;
+  margin: -65px auto 49px 231px;
 }
 
 @media (max-width: 1199px) {
